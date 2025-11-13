@@ -21,7 +21,7 @@ Supports full CI/CD, FastAPI, and Streamlit deployment, and Hugging Face Hub int
 ## 🧩 Quick Start (Local)
 
 ```bash
-git clone https://github.com/ezana-fekadu/hybrid-sentiment.git
+git clone [https://github.com/ezana-fekadu/hybrid-sentiment.git](https://github.com/Ezana-Fekadu/hybrid-sentiment.git)
 cd hybrid-sentiment
 python -m venv venv
 source venv/bin/activate   # (Windows: .\\venv\\Scripts\\activate)
